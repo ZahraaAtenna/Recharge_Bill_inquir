@@ -30,15 +30,8 @@ public class Fragment_Bill_Inquiry extends Fragment {
         // Required empty public constructor
     }
 
-    /**
-     * Use this factory method to create a new instance of
-     * this fragment using the provided parameters.
-     *
-     * @param param1 Parameter 1.
-     * @param param2 Parameter 2.
-     * @return A new instance of fragment Fragment_Bill_Inquiry.
-     */
-    // TODO: Rename and change types and number of parameters
+
+
     public static Fragment_Bill_Inquiry newInstance(String param1, String param2) {
         Fragment_Bill_Inquiry fragment = new Fragment_Bill_Inquiry();
         Bundle args = new Bundle();
