@@ -10,11 +10,6 @@ import android.view.ViewGroup;
 
 import recharge.web.services.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link Fragment_Bill_Inquiry#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class Fragment_Bill_Inquiry extends Fragment {
 
 
