@@ -26,7 +26,7 @@ public class Fragment_Bill_Inquiry extends Fragment {
     private String mParam2;
 
     public Fragment_Bill_Inquiry() {
-        // Required empty public constructor
+
     }
 
 
